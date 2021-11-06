@@ -28,3 +28,4 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I can speak three different languages: English, Russian and Uzbek.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bokijonovm&show_icons=true&theme=radical)
