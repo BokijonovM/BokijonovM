@@ -25,7 +25,6 @@
 - 🌱 I’m currently learning Full Stack JavaScript Development
 - 🤔 I’m looking for help with Finding Job
 - 💬 Ask me about JavaScript and any tech related stuff
-- 📫 How to reach me: mbm.uzb@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I can speak three different languages: English, Russian and Uzbek.
 
