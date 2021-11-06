@@ -1,5 +1,6 @@
-### Hi there. I'm Bokijonov Mukhsinjon
+# Hi there. I'm Bokijonov Mukhsinjon
 ![Design and Development](https://github.com/BokijonovM/BokijonovM/blob/main/AddText_11-06-12.09.13.jpg)
+
 
 <a href="https://twitter.com/MBokijonov">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -28,15 +29,10 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I can speak three different languages: English, Russian and Uzbek.
 
-<img align="left" width="47%" style="padding-bottom: 10px;" src="https://github-readme-stats.vercel.app/api?username=bokijonovm&show_icons=true&theme=radical"/>
-
-<img align="right" width="47%" style="padding-bottom: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
-
-<br/>
-<br/>
-
+## Skills
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -49,3 +45,9 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+## GitHub Stats
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=bokijonovm&show_icons=true&theme=radical"/>
+
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bokijonovm&layout=compact"/>
+<hr>
