@@ -28,4 +28,15 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I can speak three different languages: English, Russian and Uzbek.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bokijonovm&show_icons=true&theme=radical)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=bokijonovm&show_icons=true&theme=radical"/>
+
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
+<br/>
+<br/>
+<p style="visibility: hidden;">hello</p>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
