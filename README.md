@@ -1,5 +1,5 @@
 ### Hi there. I'm Bokijonov Mukhsinjon
-![Design and Development](https://github.com/BokijonovM/BokijonovM/blob/main/AddText_11-06-11.39.51.jpg)
+![Design and Development](https://github.com/BokijonovM/BokijonovM/blob/main/AddText_11-06-12.09.13.jpg)
 
 <a href="https://twitter.com/MBokijonov">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
