@@ -2,6 +2,7 @@
 ![Design and Development](https://github.com/BokijonovM/BokijonovM/blob/main/AddText_11-06-12.09.13.jpg)
 
 
+### Contact me
 <a href="https://twitter.com/MBokijonov">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -21,7 +22,7 @@
 
 <br/>
 <br/>
-
+### Adout me
 - 🔭 I’m currently studying on Strive School
 - 🌱 I’m currently learning Full Stack JavaScript Development
 - 🤔 I’m looking for help with Finding Job
