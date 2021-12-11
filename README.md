@@ -53,6 +53,7 @@
 
 
 ## GitHub Stats
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=bokijonovm&show_icons=true&theme=radical"/>
+
+<img align="left" width="47%" src="https://awesome-github-stats.azurewebsites.net/user-stats/bokijonovm?cardType=level&theme=react"/>
 
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bokijonovm&layout=compact"/>
