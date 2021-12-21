@@ -1,5 +1,5 @@
 # Hi there. I'm Bokijonov Mukhsinjon
-![Design and Development](https://github.com/BokijonovM/BokijonovM/blob/main/AddText_11-06-12.09.13.jpg)
+![Design and Development](https://github.com/BokijonovM/BokijonovM/blob/main/Green%20and%20White%20Technology%20LinkedIn%20Banner.png)
 
 
 ## Contact me
