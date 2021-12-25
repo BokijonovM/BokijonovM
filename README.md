@@ -28,8 +28,9 @@
 - 🔭 I’m currently studying on Strive School
 - 🌱 I’m currently learning Full Stack JavaScript Development
 - 🤔 I’m looking for help with Finding Job
-- 💬 Ask me about JavaScript and any tech related stuff
-- 😄 Pronouns: He/His
+- 👯 Challenges drives me.
+- 💬 Ask me about anything that you want.
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/bokijonov/)
 - ⚡ Fun fact: I can speak three different languages: English, Russian and Uzbek.
 
 ## Skills
