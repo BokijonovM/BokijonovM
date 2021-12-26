@@ -1,4 +1,4 @@
-# Hi there. I'm Bokijonov Mukhsinjon
+# Hi there. 
 ![Design and Development](https://github.com/BokijonovM/BokijonovM/blob/main/Green%20and%20White%20Technology%20LinkedIn%20Banner.png)
 
 
