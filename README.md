@@ -7,8 +7,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full-stack+web+developer;Always+learning+new+things;2%2B+years+of+coding+experince&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
-![Design and Development](https://github.com/BokijonovM/BokijonovM/blob/main/Green%20and%20White%20Technology%20LinkedIn%20Banner.png)
-
+<!-- ![Design and Development](https://github.com/BokijonovM/BokijonovM/blob/main/Green%20and%20White%20Technology%20LinkedIn%20Banner.png)
+ -->
 ## 🙋‍♂️ About me
 
 - 🔭 I’m currently studying on Strive School
