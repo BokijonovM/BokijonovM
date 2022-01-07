@@ -50,6 +50,6 @@
 
 
 
-<img align="left" width="47%" src="https://awesome-github-stats.azurewebsites.net/user-stats/bokijonovm?cardType=level&theme=react"/>
+<img align="left" width="47%" height="200px" src="https://awesome-github-stats.azurewebsites.net/user-stats/bokijonovm?cardType=level&theme=react"/>
 
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bokijonovm&layout=compact"/>
+<img align="right" width="47%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bokijonovm&layout=compact&cardType=level&theme=react"/>
