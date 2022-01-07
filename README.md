@@ -2,7 +2,7 @@
 ![Design and Development](https://github.com/BokijonovM/BokijonovM/blob/main/Green%20and%20White%20Technology%20LinkedIn%20Banner.png)
 
 
-## 🙋‍♂️ Contact me
+## 📲 Contact me
 <a href="https://twitter.com/MBokijonov">
   <img align="left" alt="Twitter" width="22px" src="https://github.com/BokijonovM/BokijonovM/blob/main/twitter-svgrepo-com.svg" />
 </a>
