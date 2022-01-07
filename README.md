@@ -1,8 +1,8 @@
-# Hi there. 
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">. 
 ![Design and Development](https://github.com/BokijonovM/BokijonovM/blob/main/Green%20and%20White%20Technology%20LinkedIn%20Banner.png)
 
 
-## Contact me
+## 🙋‍♂️ Contact me
 <a href="https://twitter.com/MBokijonov">
   <img align="left" alt="Twitter" width="22px" src="https://github.com/BokijonovM/BokijonovM/blob/main/twitter-svgrepo-com.svg" />
 </a>
@@ -23,7 +23,7 @@
 <br/>
 <br/>
 
-## About me
+## 🙋‍♂️ About me
 
 - 🔭 I’m currently studying on Strive School
 - 🌱 I’m currently learning Full Stack JavaScript Development
@@ -33,7 +33,7 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/bokijonov/)
 - ⚡ Fun fact: I can speak three different languages: English, Russian and Uzbek.
 
-## Skills
+## 🚀 Languages and Tools:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -53,7 +53,14 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
-## GitHub Stats
+## 📊 GitHub Stats
+
+<p align="center">
+    <a href="https://github.com/BokijonovM/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Guilermo's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=guillermoFragachan&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
 
 <img align="left" width="47%" src="https://awesome-github-stats.azurewebsites.net/user-stats/bokijonovm?cardType=level&theme=react"/>
 
