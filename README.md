@@ -1,27 +1,13 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">. 
+<h3 align="center">
+  Welcome to Bokijonov Mukhsinjon's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full-stack+web+developer;Always+learning+new+things;2%2B+years+of+coding+experince&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p>
+
 ![Design and Development](https://github.com/BokijonovM/BokijonovM/blob/main/Green%20and%20White%20Technology%20LinkedIn%20Banner.png)
-
-
-## 📲 Contact me
-<a href="https://twitter.com/MBokijonov">
-  <img align="left" alt="Twitter" width="22px" src="https://github.com/BokijonovM/BokijonovM/blob/main/twitter-svgrepo-com.svg" />
-</a>
-<a href="https://www.linkedin.com/in/bokijonov">
-  <img align="left" alt="Linkdein" width="22px" src="https://github.com/BokijonovM/BokijonovM/blob/main/linkedin-svgrepo-com.svg" />
-</a>
-<a href="https://t.me/bokijonovm">
-  <img align="left" alt="Telegram" width="22px" src="https://github.com/BokijonovM/BokijonovM/blob/main/telegram-svgrepo-com.svg" />
-</a>
-<a href="https://www.instagram.com/muhsinjon.bm">
-  <img align="left" alt="Instagram" width="22px" src="https://github.com/BokijonovM/BokijonovM/blob/main/instagram-svgrepo-com.svg" />
-</a>
-<a href="https://www.facebook.com/bokijonov.m">
-  <img align="left" alt="Facebook" width="22px" src="https://github.com/BokijonovM/BokijonovM/blob/main/facebook-svgrepo-com.svg" />
-</a>
-
-
-<br/>
-<br/>
 
 ## 🙋‍♂️ About me
 
@@ -57,9 +43,11 @@
 
 <p align="center">
     <a href="https://github.com/BokijonovM/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Bokijonov's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bokijonovm&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Bokijonov's streak" src="http://github-readme-streak-stats.herokuapp.com?user=bokijonovm&theme=react&date_format=M%20j%5B%2C%20Y%5D"/>
     </a>
 </p>
+
+
 
 
 <img align="left" width="47%" src="https://awesome-github-stats.azurewebsites.net/user-stats/bokijonovm?cardType=level&theme=react"/>
