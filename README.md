@@ -12,7 +12,7 @@
 ## 🙋‍♂️ About me
 
 - 🔭 I’m currently studying on Strive School
-- 🌱 I’m currently learning Full Stack JavaScript Development
+- 🌱 I’m currently learning Full Stack Web Development
 - 🤔 I’m looking for help with Finding Job
 - 👯 Challenges drives me.
 - 💬 Ask me about anything that you want.
