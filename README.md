@@ -41,13 +41,6 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-    <a href="https://github.com/BokijonovM/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Bokijonov's streak" src="http://github-readme-streak-stats.herokuapp.com?user=bokijonovm&theme=react&date_format=M%20j%5B%2C%20Y%5D"/>
-    </a>
-</p>
-
-
 
 
 <img align="left" width="47%" height="200px" src="https://awesome-github-stats.azurewebsites.net/user-stats/bokijonovm?cardType=level&theme=react"/>
